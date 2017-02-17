@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">105上APP程式設計期中考</string>
+    <string name="loading_text">長江悲已滯，\n萬裡念將歸。\n況屬高風晚，\n山山黃葉飛。</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="newnextpage">查看更多</string>
+    <string name="newsback">回列表</string>
+    <string name="new1_title">Google將標示惡意網站累犯，網站恐遭掛紅牌且一個月不得上訴</string>
+    <string name="new1">Google自2005年推動安全上網(Safe Browsing)政策以維護網站的安全審查，周三再宣佈新的措施，將針對釣魚、詐欺或含有惡意程式而多次再犯的網站標註為「累犯網站」(repeat offender)。</string>
+    <string name="news1">Google自2005年推動安全上網(Safe Browsing)政策以維護網站的安全審查，周三再宣佈新的措施，將針對釣魚、詐欺或含有惡意程式而多次再犯的網站標註為「累犯網站」(repeat offender)。\n
+
+Google安全上網計畫成員Brooke Heinichen指出，在舊有作法下，針對違反該公司的惡意軟體、垃圾軟體、釣魚與社交工程政策的網站，Google會在用戶瀏覽前顯示警告頁，再由Google主動發起或網站管理員到Search Console網站要求審查。但是有部分網站卻在Google撤除警告後又故技重施危害使用者。\n
+
+為了防堵惡意網站鑽管理漏洞，即日起Google將把這類網站歸類為「累犯網站」（Repeat Offender）。一旦被標註為累犯網站，且網站管理員30天之內不得要求Google審查，期間警告頁將會持續顯示（俗稱網站掛紅牌）。除了Chrome外，Firefox和Safari也都套用安全上網站機制。被標註為累犯網站時，管理員會經由他們在Search Console輸入的郵箱獲得通知。\n
+
+不過Google指出，刻意發送有害軟體或內容的網站將首當其衝，被駭而植入惡意程式的網站將不在此限。</string>
+    <string name="new2_title">Yahoo坦承2014攻擊事件，部分員工當時就知情</string>
+    <string name="new2">Yahoo在9月時對外坦言曾在2014年底遭到國家級駭客攻擊，導致逾5億筆用戶個資被盜，由於該案可能影響Verizon併購Yahoo的決定，外界一直關注Yahoo究竟是何時知道這起攻擊事件，如今Yahoo主動坦言，在2014年底時，就有部分員工知道發生遭到國家級駭客攻擊的事件。</string>
+    <string name="news2">Yahoo在9月時對外坦言曾在2014年底遭到國家級駭客攻擊，導致逾5億筆用戶個資被盜，由於該案可能影響Verizon併購Yahoo的決定，外界一直關注Yahoo究竟是何時知道這起攻擊事件，如今Yahoo主動坦言，在2014年底時，就有部分員工知道發生遭到國家級駭客攻擊的事件。\n
+
+Yahoo在提交給美國證管會的文件中首度完整交代發現該大規模資料外洩事件的過程，表示在7月底時，發現有駭客在網路上宣稱取得大量Yahoo用戶資料，該公司隨即聘請外部資安鑑識人員協助調查，但無法找到與該駭客所言吻合的攻擊事件，於是決定擴大調查範圍到過去曾經發生過的網路與資料安全事件。\n
+
+在檢視過去被攻擊紀錄後，才發現在2014年底時，該公司曾經有遭受由國家資助駭客攻擊的紀錄，進而確認此波攻擊與資料外洩的關聯。換言之，Yahoo當時便知道遭受國家級駭客攻擊，但卻遲至2年後才發現當時攻擊造成了大規模的資料外洩。\n
+
+Yahoo因這起資料外洩事件已經面臨23件法律訴訟，當中不少都在尋求集體訴訟成案，希望向Yahoo索賠。\n
+
+出價48億美元要併購Yahoo的美國電信業者Verizon上個月已經表示，這起資料外洩事件對Yahoo的價值有重大影響，並認為會對交易價格發生負面影響；但Yahoo則堅稱這起事件並未影響用戶忠誠度，從網站頁面瀏覽數、電子郵件收發數、搜尋數量等，都未因這起事件公布而下滑，對公司的價值抱持信心。</string>
+</resources>
